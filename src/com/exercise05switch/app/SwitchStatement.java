@@ -14,7 +14,7 @@ public class SwitchStatement {
 		do 
 		{
 			
-				answer=0;
+				nMes=0;
 		//validacion de los datos de entrada
 		while (nMes<=0)
 		{
